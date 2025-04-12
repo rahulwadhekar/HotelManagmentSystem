@@ -92,7 +92,3 @@ spring.datasource.url=jdbc:mysql://localhost:3306/hotel_db
 spring.datasource.username=root
 spring.datasource.password=your_password
 jwt.secret=your_jwt_secret
-
-
-
-
