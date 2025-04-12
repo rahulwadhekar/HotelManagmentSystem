@@ -105,22 +105,25 @@ Swagger UI: http://localhost:8080/swagger-ui/index.html
 
 Postman for manual testing
 ```
-🔐 Default Roles
+##🔐 Default Roles
+
 ADMIN: Manage all rooms, bookings, and users.
 
 USER: Book rooms, view profile & history
 
 
-🚀 Future Enhancements
-Payment Gateway Integration (e.g. Stripe, Razorpay)
+##🚀Future Enhancements
 
-Admin Dashboard with Analytics
 
-Email Booking Confirmations
+1.Payment Gateway Integration (e.g. Stripe, Razorpay)
 
-PDF Invoice Generator
+2.Admin Dashboard with Analytics
 
-Docker & Kubernetes Deployment
+3.Email Booking Confirmations
+
+4.PDF Invoice Generator
+
+5.Docker & Kubernetes Deployment
 
 
 
