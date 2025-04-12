@@ -92,3 +92,38 @@ spring.datasource.url=jdbc:mysql://localhost:3306/hotel_db
 spring.datasource.username=root
 spring.datasource.password=your_password
 jwt.secret=your_jwt_secret
+``` 
+3.Build and run
+```bash
+mvn clean install
+mvn spring-boot:run
+```
+
+4.Access your APIs
+```bash
+Swagger UI: http://localhost:8080/swagger-ui/index.html
+
+Postman for manual testing
+```
+🔐 Default Roles
+ADMIN: Manage all rooms, bookings, and users.
+
+USER: Book rooms, view profile & history
+
+
+🚀 Future Enhancements
+Payment Gateway Integration (e.g. Stripe, Razorpay)
+
+Admin Dashboard with Analytics
+
+Email Booking Confirmations
+
+PDF Invoice Generator
+
+Docker & Kubernetes Deployment
+
+
+
+
+
+
